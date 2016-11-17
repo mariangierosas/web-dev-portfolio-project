@@ -1,5 +1,5 @@
 Author:
-Alex D. Santos Sosa
+Mari Rosas
 
 Description:
 Portfolio project
