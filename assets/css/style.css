@@ -6,6 +6,8 @@ section h3 {
   color: #986d64;
   font-size: 24px;
   font-weight: 600;
+  margin-bottom: 40px;
+  margin-top: 0;
 }
 
 header,
@@ -45,7 +47,14 @@ footer nav ul li a  {
     text-decoration: none;
 }
 
+main .main-wrapper {
+    margin: 60px 80px 140px 80px;
+
 footer {
-  margin-top: 140px;
   background-color: orangered;
+}
+hr{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  
 }
